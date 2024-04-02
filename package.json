@@ -1,0 +1,26 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/forms": "^0.5.7",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.2",
+        "axios": "^1.6.4",
+        "laravel-vite-plugin": "^1.0.0",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.1.0",
+        "vite": "^5.0.0"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^41.2.1",
+        "@ckeditor/ckeditor5-build-decoupled-document": "^41.2.1",
+        "@ckeditor/ckeditor5-html-support": "^41.2.1",
+        "@ckeditor/ckeditor5-paste-from-office": "^41.2.1",
+        "@ckeditor/ckeditor5-paste-from-office-enhanced": "^41.2.1",
+        "@ckeditor/vite-plugin-ckeditor5": "^0.1.3"
+    }
+}
